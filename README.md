@@ -6,7 +6,7 @@ Relearn JavaScript by completing LeetCode Problems.
 
 Require:
 
-1. Memory **less than 95%** of JavaScript online submissions for other developer, and runtime **faster than 95%** of JavaScript online submissions for other developer.
+1. Memory **less than 90%** of JavaScript online submissions for other developer, and runtime **faster than 90%** of JavaScript online submissions for other developer.
 2. Each question describes at least **2 APIs of JavaScript**;
 3. Each question must have a corresponding markdown description, **introduction ideas and problem solving methods, and API description**。
 
